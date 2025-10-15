@@ -1,0 +1,26 @@
+# Ignore reports folder
+reports/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore all zip files (future builds)
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
